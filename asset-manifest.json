@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/stas-lozov/static/js/main.f95cfc2c.chunk.js",
+    "main.js.map": "/stas-lozov/static/js/main.f95cfc2c.chunk.js.map",
+    "runtime-main.js": "/stas-lozov/static/js/runtime-main.53aa1de6.js",
+    "runtime-main.js.map": "/stas-lozov/static/js/runtime-main.53aa1de6.js.map",
+    "static/js/2.284f5fa7.chunk.js": "/stas-lozov/static/js/2.284f5fa7.chunk.js",
+    "static/js/2.284f5fa7.chunk.js.map": "/stas-lozov/static/js/2.284f5fa7.chunk.js.map",
+    "index.html": "/stas-lozov/index.html",
+    "static/js/2.284f5fa7.chunk.js.LICENSE.txt": "/stas-lozov/static/js/2.284f5fa7.chunk.js.LICENSE.txt",
+    "static/media/cat1.b3a9330c.gif": "/stas-lozov/static/media/cat1.b3a9330c.gif",
+    "static/media/cat2.927268a9.gif": "/stas-lozov/static/media/cat2.927268a9.gif",
+    "static/media/cat3.11bc6cce.gif": "/stas-lozov/static/media/cat3.11bc6cce.gif",
+    "static/media/ezhik.0e2f66ed.jpg": "/stas-lozov/static/media/ezhik.0e2f66ed.jpg",
+    "static/media/megahorosh.d32a08ec.gif": "/stas-lozov/static/media/megahorosh.d32a08ec.gif",
+    "static/media/title.ce907e32.gif": "/stas-lozov/static/media/title.ce907e32.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53aa1de6.js",
+    "static/js/2.284f5fa7.chunk.js",
+    "static/js/main.f95cfc2c.chunk.js"
+  ]
+}
